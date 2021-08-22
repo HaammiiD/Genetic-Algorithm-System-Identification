@@ -4,7 +4,7 @@ System Identification of a Hysteresis Model (Prandtl-Ishlinskii) using Genetic A
 
 
 Description
------------
+------------
 
 An identification process based on Genetic Algorithm (GA) is presented, and a hysteresis model Prandtl-Ishlinskii is trained by some experimental data collected from a test setup consisting of a morphing wing mechanism actuated by shape memory alloy (SMA) actuators. The parameters of the model are identified with the purpose of adapting the model response to the real hysteretic nonlinearity. 
 
